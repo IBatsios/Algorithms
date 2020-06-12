@@ -3,6 +3,6 @@
 # Algorithms
 
 1. Prime Numbers
-   ..\* Sieve of Eratosthenes
+   - Sieve of Eratosthenes
 
 # Data Structures
