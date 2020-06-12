@@ -1,4 +1,4 @@
-### To stay sharp, I am adding algorithms and data structures to my git repository
+##### _To stay sharp, I am adding algorithms and data structures to my git repository._
 
 # Algorithms
 
