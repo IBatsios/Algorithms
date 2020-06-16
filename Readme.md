@@ -4,5 +4,7 @@
 
 1. Prime Numbers
    - Sieve of Eratosthenes
+2. Binary Search
+   - O(log n) search implementation
 
 # Data Structures
