@@ -3,7 +3,7 @@
 # Algorithms
 
 1. Prime Numbers
-   - Sieve of Eratosthenes
+   - <a href="https://github.com/IBatsios/Algorithms/blob/master/Algorithms/eratosthenes.js">Sieve of Eratosthenes</a>
 2. Binary Search
    - O(log n) search implementation
 3. Fibonacci Sequence
