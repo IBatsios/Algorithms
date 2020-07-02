@@ -6,11 +6,11 @@ function mergeSort(array) {
   }
 
   // half the array
-  middle = Math.floor(array.length / 2);
+  const middle = Math.floor(array.length / 2);
 
   // divide into left and right
-  left = array.slice(0, middle);
-  right = array.slice(middle);
+  const left = array.slice(0, middle);
+  const right = array.slice(middle);
 
   return merge(mergeSort(left), mergeSort(right));
 }
