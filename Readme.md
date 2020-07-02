@@ -9,5 +9,7 @@
 3. Fibonacci Sequence
    - <a href="https://github.com/IBatsios/Algorithms/blob/master/Algorithms/fibonaccimemoization.js">Memoization (less likely to fail because of storage space)</a>
    - <a href="https://github.com/IBatsios/Algorithms/blob/master/Algorithms/fibonaccirecursively.js">Recursively</a>
+4. Merge Sort
+   - <a href="https://github.com/IBatsios/Algorithms/blob/master/Algorithms/mergesort.js">Merge Sort</a>
 
 # Data Structures
