@@ -11,5 +11,6 @@
    - <a href="https://github.com/IBatsios/Algorithms/blob/master/Algorithms/fibonaccirecursively.js">Recursively</a>
 4. Merge Sort
    - <a href="https://github.com/IBatsios/Algorithms/blob/master/Algorithms/mergesort.js">Merge Sort</a>
+   - O(N log N)
 
 # Data Structures
