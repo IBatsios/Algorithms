@@ -12,5 +12,9 @@
 4. Merge Sort
    - <a href="https://github.com/IBatsios/Algorithms/blob/master/Algorithms/mergesort.js">Merge Sort</a>
    - O(N log N)
+5. Linear Search
+   - <a href="https://github.com/IBatsios/Algorithms/blob/master/Algorithms/linearsearch.js">Linear Search</a>
+   - O(N)
+   - The easiest search to implement
 
 # Data Structures
