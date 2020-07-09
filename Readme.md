@@ -16,5 +16,7 @@
    - <a href="https://github.com/IBatsios/Algorithms/blob/master/Algorithms/linearsearch.js">Linear Search</a>
    - O(N)
    - The easiest search to implement
+6. Name Generator
+   - <a href="https://github.com/IBatsios/Algorithms/blob/master/Algorithms/namegenerator.js">Name Generator</a>
 
 # Data Structures
