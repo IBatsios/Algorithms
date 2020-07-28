@@ -18,5 +18,8 @@
    - The easiest search to implement
 6. Name Generator
    - <a href="https://github.com/IBatsios/Algorithms/blob/master/Algorithms/namegenerator.js">Name Generator</a>
+7. Reverse Char Array
+   - <a href="https://github.com/IBatsios/Algorithms/blob/master/Algorithms/reversestring.js">Reverse Char Array</a>
+   - O(1)
 
 # Data Structures
