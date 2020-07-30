@@ -23,6 +23,6 @@
    - O(1)
 8. Find Maximum Depth of Binary Tree
    - <a href="https://github.com/IBatsios/Algorithms/blob/master/Algorithms/reversestring.js">Maximum Depth of Binary Tree</a>
-     -O(n)
+   - O(n)
 
 # Data Structures
