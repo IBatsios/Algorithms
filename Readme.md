@@ -24,5 +24,9 @@
 8. Find Maximum Depth of Binary Tree
    - <a href="https://github.com/IBatsios/Algorithms/blob/master/Algorithms/depthbinarytree.js">Maximum Depth of Binary Tree</a>
    - O(n)
+9. Find single number in array
+   - <a href="https://github.com/IBatsios/Algorithms/blob/master/Algorithms/singlenumarray.java">Single Number in Array</a>
+   - a⊕b⊕a=(a⊕a)⊕b=0⊕b=b
+   - O(n)
 
 # Data Structures
