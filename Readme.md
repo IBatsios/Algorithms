@@ -28,5 +28,9 @@
    - <a href="https://github.com/IBatsios/Algorithms/blob/master/Algorithms/singlenumarray.java">Single Number in Array</a>
    - a⊕b⊕a=(a⊕a)⊕b=0⊕b=b
    - O(n)
+10. Find single number in array
+
+- <a href="https://github.com/IBatsios/Algorithms/blob/master/Algorithms/singlenuminarray.js"></a>
+- I added the JavaScript version to the solution
 
 # Data Structures
