@@ -1,4 +1,4 @@
-##### _To stay sharp, I am adding algorithms and data structures to my git repository._
+##### To stay sharp, I am adding algorithms and data structures to my git repository.
 
 # Algorithms
 
@@ -32,5 +32,11 @@
 
 - <a href="https://github.com/IBatsios/Algorithms/blob/master/Algorithms/singlenuminarray.js"></a>
 - I added the JavaScript version to the solution
+
+11. Reverse a Linked List
+
+- <a href="https://github.com/IBatsios/Algorithms/blob/master/Algorithms/reverselinkedlist.js">Reverse Linked List</a>
+- Recursive
+  -O(n)
 
 # Data Structures
